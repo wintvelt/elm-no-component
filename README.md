@@ -38,4 +38,4 @@ The scenario for both versions is the same:
 4. Add validation to the page
 5. Add another page that displays a friend list, where you can click to edit details
 6. Add functionality to add or delete a friend from the list
-7. Improve messages
+7. Improve error and info messages
